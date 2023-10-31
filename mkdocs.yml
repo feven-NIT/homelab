@@ -6,8 +6,9 @@ theme:
   - navigation.indexes
 plugins:
 - search
-repo_url: https://github.com/openshift/hypershift
-repo_name: openshift/hypershift
+repo_url: https://github.com/feven-redhat/homelab
+repo_name: feven-redhat/homelab
+docs_dir: content
 markdown_extensions:
 - toc:
     toc_depth: "2-3"
