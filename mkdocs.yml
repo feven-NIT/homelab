@@ -12,3 +12,8 @@ docs_dir: content
 markdown_extensions:
 - toc:
     toc_depth: "2-3"
+nav:
+- Home: index.md
+- 'Homelab guides':
+  - openshift/index.md
+  - openshift/introduction.md
