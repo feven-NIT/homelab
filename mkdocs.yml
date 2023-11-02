@@ -16,4 +16,5 @@ nav:
 - Home: index.md
 - 'Homelab guides':
   - openshift/index.md
-  - openshift/introduction.md
+  - openshift/00_introduction.md
+  - openshift/01_architecture.md
